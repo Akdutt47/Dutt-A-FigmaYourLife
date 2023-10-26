@@ -1,0 +1,61 @@
+@font-face {
+    font-family: zoro;
+    src: url(../assets/JacquesFrancoisShadow-Regular.ttf);
+}
+
+.headerPage{
+    font-family: zoro;
+    float: center;    
+   font-size: 80px;
+    margin-top: 80px;
+}
+.row1{
+    margin:3px;
+    margin-left: 1000px;
+}
+.btn1{
+    background-color: antiquewhite;
+    color:black;
+    font-family: zoro;
+    font-size: 45px;
+    margin-top:300px;
+    padding: 20px 200px;
+    position: relative; right: 80px;
+    
+    }
+.btn2{
+    background-color: antiquewhite;
+    color: black;
+    font-family: zoro;
+    font-size: 45px;
+    margin-top: 10px;
+    padding: 20px 300px;
+    position:relative; right: 80px;
+    
+}
+
+h1{
+    font-family: zoro;
+    text-align: center;
+    font-size: 80px;
+    margin-top: 10px;
+    text-align: center;
+    
+}
+.page1{
+    margin-top: 80px;
+    font-family: zoro;
+    font-size: 60px;
+    
+}
+.logo{
+    width: 150px;
+    float:left;
+    
+    
+
+}
+
+.page1Top {
+    display: flex;
+}
